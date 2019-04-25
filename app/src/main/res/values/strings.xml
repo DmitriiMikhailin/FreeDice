@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">freeDice</string>
+    <string name="diceButton">Бросить кубик</string>
+    <string name="diceImageViewContentDescription">Выпавшее число</string>
+</resources>
